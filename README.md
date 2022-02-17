@@ -12,3 +12,7 @@ generate key (ssh-keygen) key stored in /root/.ssh/id_rsa.pub.
 copy and paste the key in host machine authorised keys (.ssh/authorised_keys).
 
 copy public or private ips of hostmachines in /etc/ansible/hosts .
+
+
+reference for postgresql 
+https://computingforgeeks.com/how-to-manage-postgresql-database-with-ansible/
