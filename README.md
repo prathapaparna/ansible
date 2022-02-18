@@ -36,6 +36,15 @@ ansible-vault encrypt_string 'Passw0rd' --name 'db_password'
 
 ![image](https://user-images.githubusercontent.com/99127429/154667698-f9ee06c4-59e5-4ebf-8f1a-6254a2694410.png)
 
+copy and paste encrypted content in the vars-encypted.yml
+
+![image](https://user-images.githubusercontent.com/99127429/154668019-8195eb62-dfd0-4669-828e-b423e5265732.png)
+
+Decrypt the password using below command
+
+![image](https://user-images.githubusercontent.com/99127429/154668199-ab83111e-f513-4985-b8ae-ff74b05302a3.png)
+
+
 
 
 
