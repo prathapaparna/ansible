@@ -29,6 +29,13 @@ https://computingforgeeks.com/how-to-manage-postgresql-database-with-ansible/
 ## reference link for ansible vault
 https://www.linuxtechi.com/use-ansible-vault-secure-sensitive-data/
 
+## encrypt specific string using vault
+```
+ansible-vault encrypt_string 'Passw0rd' --name 'db_password'
+```
+
+![image](https://user-images.githubusercontent.com/99127429/154667698-f9ee06c4-59e5-4ebf-8f1a-6254a2694410.png)
+
 
 
 
