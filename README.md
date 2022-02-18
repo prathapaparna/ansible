@@ -26,6 +26,9 @@ ansible-playbook postgresql.yml
 ## reference for postgresql 
 https://computingforgeeks.com/how-to-manage-postgresql-database-with-ansible/
 
+## reference link for ansible vault
+https://www.linuxtechi.com/use-ansible-vault-secure-sensitive-data/
+
 
 
 
