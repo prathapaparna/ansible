@@ -44,6 +44,11 @@ Decrypt the password using below command
 
 ![image](https://user-images.githubusercontent.com/99127429/154668199-ab83111e-f513-4985-b8ae-ff74b05302a3.png)
 
+run ansible playbook with vault password file
+
+```
+ ansible-playbook postgresql.yml --vault-password-file /etc/ansible/vault_pass.txt
+```
 
 
 
